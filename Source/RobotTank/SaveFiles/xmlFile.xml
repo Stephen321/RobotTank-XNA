@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!--XML save file of the highscores in Joint Project 2-->
+<JointProject2>
+  <HighScoreTable>
+    <HighScore>
+      <name>stephen</name>
+      <score>1130</score>
+      <wave>3</wave>
+    </HighScore>
+    <HighScore>
+      <name>Stephen</name>
+      <score>1120</score>
+      <wave>2</wave>
+    </HighScore>
+    <HighScore>
+      <name>Stephen</name>
+      <score>250</score>
+      <wave>0</wave>
+    </HighScore>
+    <HighScore>
+      <name />
+      <score>0</score>
+      <wave>0</wave>
+    </HighScore>
+    <HighScore>
+      <name />
+      <score>0</score>
+      <wave>0</wave>
+    </HighScore>
+  </HighScoreTable>
+</JointProject2>

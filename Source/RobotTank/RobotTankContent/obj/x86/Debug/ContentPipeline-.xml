@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>tank_body.png</Source>
+      <Name>tank_body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\tank_body.xnb</Output>
+      <Time>2014-11-16T17:38:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>turret.png</Source>
+      <Name>turret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\turret.xnb</Output>
+      <Time>2014-11-16T17:38:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>rocket.png</Source>
+      <Name>rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\rocket.xnb</Output>
+      <Time>2014-11-21T14:05:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tankTreads.png</Source>
+      <Name>tankTreads</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\tankTreads.xnb</Output>
+      <Time>2014-11-08T18:29:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>testCircle.png</Source>
+      <Name>testCircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\testCircle.xnb</Output>
+      <Time>2014-11-20T15:46:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-11-08T18:20:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>whitesquare.png</Source>
+      <Name>whitesquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\whitesquare.xnb</Output>
+      <Time>2014-11-08T18:40:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lightmask.png</Source>
+      <Name>lightmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\lightmask.xnb</Output>
+      <Time>2014-11-21T18:58:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>splashbackground1.png</Source>
+      <Name>splashbackground1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\splashbackground1.xnb</Output>
+      <Time>2014-11-21T23:10:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gameoveroptionsbg.jpg</Source>
+      <Name>gameoveroptionsbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\gameoveroptionsbg.xnb</Output>
+      <Time>2014-11-21T23:10:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>scoreboard.png</Source>
+      <Name>scoreboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\scoreboard.xnb</Output>
+      <Time>2014-11-15T16:47:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbar.png</Source>
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\healthbar.xnb</Output>
+      <Time>2014-11-15T20:23:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>buttonTex.png</Source>
+      <Name>buttonTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\buttonTex.xnb</Output>
+      <Time>2014-11-15T18:12:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbackground.png</Source>
+      <Name>healthbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\healthbackground.xnb</Output>
+      <Time>2014-11-15T20:11:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>explosionspritesheet.png</Source>
+      <Name>explosionspritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\explosionspritesheet.xnb</Output>
+      <Time>2014-11-15T21:37:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>dot.png</Source>
+      <Name>dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\dot.xnb</Output>
+      <Time>2014-11-18T00:28:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>map.png</Source>
+      <Name>map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\map.xnb</Output>
+      <Time>2014-11-18T14:57:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lifeImage.png</Source>
+      <Name>lifeImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\lifeImage.xnb</Output>
+      <Time>2014-11-18T14:38:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>redbody.png</Source>
+      <Name>redbody</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\redbody.xnb</Output>
+      <Time>2014-11-20T23:50:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>redturret.png</Source>
+      <Name>redturret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\redturret.xnb</Output>
+      <Time>2014-11-20T23:50:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>greenbody.png</Source>
+      <Name>greenbody</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\greenbody.xnb</Output>
+      <Time>2014-11-21T00:00:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>greenturret.png</Source>
+      <Name>greenturret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\greenturret.xnb</Output>
+      <Time>2014-11-21T00:00:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>healDrone.png</Source>
+      <Name>healDrone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\healDrone.xnb</Output>
+      <Time>2014-11-21T04:43:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>healDroneGlow.png</Source>
+      <Name>healDroneGlow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\healDroneGlow.xnb</Output>
+      <Time>2014-11-21T03:31:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>particle.png</Source>
+      <Name>particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\particle.xnb</Output>
+      <Time>2014-11-21T04:40:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>soldier.png</Source>
+      <Name>soldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\soldier.xnb</Output>
+      <Time>2014-11-21T14:15:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2014-11-21T14:32:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bloodstain.png</Source>
+      <Name>bloodstain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\bloodstain.xnb</Output>
+      <Time>2014-11-21T16:52:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>explosionMark.png</Source>
+      <Name>explosionMark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\explosionMark.xnb</Output>
+      <Time>2014-11-21T17:07:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>wrench.png</Source>
+      <Name>wrench</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\wrench.xnb</Output>
+      <Time>2014-11-21T19:25:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>highScoreTex.png</Source>
+      <Name>highScoreTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\highScoreTex.xnb</Output>
+      <Time>2014-11-21T22:59:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>infoTexture.png</Source>
+      <Name>infoTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\infoTexture.xnb</Output>
+      <Time>2014-11-21T22:59:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tempFont.spritefont</Source>
+      <Name>tempFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\tempFont.xnb</Output>
+      <Time>2014-10-23T01:58:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>buttonFont.spritefont</Source>
+      <Name>buttonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\buttonFont.xnb</Output>
+      <Time>2014-11-14T21:08:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bigFont.spritefont</Source>
+      <Name>bigFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\bigFont.xnb</Output>
+      <Time>2014-11-21T22:00:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2014-11-21T22:00:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lifeUpFont.spritefont</Source>
+      <Name>lifeUpFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\lifeUpFont.xnb</Output>
+      <Time>2014-11-19T22:28:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lighting.fx</Source>
+      <Name>lighting</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\lighting.xnb</Output>
+      <Time>2014-11-08T18:23:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>click.wav</Source>
+      <Name>click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\click.xnb</Output>
+      <Time>2014-11-21T05:29:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-11-21T05:29:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierdeath.wav</Source>
+      <Name>soldierdeath</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\soldierdeath.xnb</Output>
+      <Time>2014-11-21T14:45:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>soldierfire.wav</Source>
+      <Name>soldierfire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\soldierfire.xnb</Output>
+      <Time>2014-11-21T14:48:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>rocketfire.wav</Source>
+      <Name>rocketfire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\rocketfire.xnb</Output>
+      <Time>2014-11-21T14:55:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>music1.mp3</Source>
+      <Name>music1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\music1.xnb</Output>
+      <Extra>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\music1.wma</Extra>
+      <Time>2014-11-21T05:30:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>music2.mp3</Source>
+      <Name>music2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\music2.xnb</Output>
+      <Extra>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\music2.wma</Extra>
+      <Time>2014-11-21T21:33:34+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTankContent\</RootDirectory>
+      <LoggerRootDirectory>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTankContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTank\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-17T16:42:39.0664152+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

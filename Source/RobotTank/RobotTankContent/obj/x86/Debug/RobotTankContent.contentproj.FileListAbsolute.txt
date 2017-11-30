@@ -1,0 +1,6 @@
+C:\Users\Stephen\Google Drive\Carlow IT\Current Projects\RobotTank\RobotTank\RobotTankContent\obj\x86\Debug\RobotTankContent.contentprojResolveAssemblyReference.cache
+E:\RobotTank\RobotTank\RobotTankContent\obj\x86\Debug\RobotTankContent.contentprojResolveAssemblyReference.cache
+F:\RobotTank\RobotTank\RobotTankContent\obj\x86\Debug\RobotTankContent.contentprojResolveAssemblyReference.cache
+G:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTankContent\obj\x86\Debug\RobotTankContent.contentprojResolveAssemblyReference.cache
+E:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTankContent\obj\x86\Debug\RobotTankContent.contentprojResolveAssemblyReference.cache
+F:\for laptop\RobotTankAllFiles\RobotTank\RobotTank\RobotTankContent\obj\x86\Debug\RobotTankContent.contentprojResolveAssemblyReference.cache
